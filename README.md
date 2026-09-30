@@ -2,11 +2,7 @@
 
 Este é um projeto base para testes automatizados utilizando o **Cypress**.
 
-<img width="1279" height="850" alt="133" src="https://github.com/user-attachments/assets/aead34e3-2091-4e5c-b909-8821aa0bd33## Pipeline de CI (GitHub Actions)
-
-Os testes Cypress rodam automaticamente a cada `push` ou `pull request`.
-
-![Pipeline do Cypress executando na aba Actions](133.JPG)3" />
+![Pipeline do Cypress executando na aba Actions](docs/133.JPG)
 
 ![Testes Cypress](https://github.com/Li-code1/ebac-cypress-samples/actions/workflows/main.yml/badge.svg)
 
